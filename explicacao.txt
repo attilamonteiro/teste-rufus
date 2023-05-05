@@ -1,0 +1,5 @@
+//Construa uma api em node.js que seja capaz de executar os verbos get, post, put e delete. 
+//Gravar a informação dentro de um txt. 
+//Por exemplo Salvar o endereço, voce vai ter um endpoint onde voce recupera uma lista de endereços, 
+//um endpoint onde voce recupera apenas um endereço, um endpoint onde voce salva o endereço, 
+//um endpoint onde voce atualiza o endereço e o endpoint onde você deleta o endereço.
