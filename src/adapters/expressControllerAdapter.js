@@ -123,7 +123,7 @@ class ExpressControllerAdapter {
       
 // Verifica se o objeto tem a propriedade id e lança um erro caso não tenha
           
-          if (!req.body.hasOwnProperty('id')) {
+          if (!id) {
             throw new Error('O objeto não tem a propriedade id');
           }
       
